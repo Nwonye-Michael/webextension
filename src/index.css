@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: "Sora", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: transparent;
+}
+#root {
+  background: transparent;
+}
+html {
+  background: transparent;
+}
